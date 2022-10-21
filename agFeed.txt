@@ -1,0 +1,11 @@
+myID: 15ef8944-a689-45e8-8fa3-3ee2afbded99
+ReqID: b2278b5d-0c14-424d-93aa-1e7d51d8cdc8
+Author: ContentServer CS
+User-Agent: ATOMClient/1/0
+Content-Type: text/html; charset=UTF-8
+<feed>
+my feed: $ akshd
+Hello Aggregation server!
+The Assignment is due in less than 3 weeks! you need to accept this news, and then add it to the aggregated feed! 
+thank you and good bye! 
+</feed>

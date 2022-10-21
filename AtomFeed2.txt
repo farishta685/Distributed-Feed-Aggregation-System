@@ -1,0 +1,8 @@
+<feed>
+*
+my feed: This is Feed-2
+Hello Aggregation server!
+I Have Beaking News!
+I am sending you a new Feed which is feed number 2!
+Thats it for now! bye!
+</feed>
