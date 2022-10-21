@@ -1,5 +1,5 @@
 # Distributed-Feed-Aggregation-System
-## This project was implemented for an Assignment for the course Distributed Systems. 
+### This project was implemented for an Assignment for the course Distributed Systems. 
 In this Distributed system there are 3 entities:
 * Aggregation Server: listens for connections and uses Threads to read and process client and content server requests. Aggregates News Feed sent by all the content servers into an aggregation feed file
 * Content server: makes conection to Aggregation server and sends a PUT request containing an Atom feed to the server to upload on the Aggregation feed
