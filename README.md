@@ -7,13 +7,13 @@ In this Distributed system there are 3 entities:
 * Lamport clock class: is a class which is used by all the entities above to synchronise and for the Aggregation server to keep records of time stamps of each request and response
 
 
-## To compile the code, run the following commands:
+### To compile the code, run the following commands:
 * javac AggregatedServer.java
 * javac ContentServer.java
 * javac GetClient.java
 
 
-## To run the code, run the following commands in seperate terminal windows:
+### To run the code, run the following commands in seperate terminal windows:
 * java AggregatedServer
 * java ContentServer
 * java GetClient
